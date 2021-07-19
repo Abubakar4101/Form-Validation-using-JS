@@ -1,0 +1,53 @@
+.main
+{
+	width: 600px;
+	height: 450px;
+	float:left;
+	margin-left:380px;
+	margin-top: 80px;
+}
+.ldiv
+{
+	background-color: white;
+	margin: auto;
+	width:400px;
+	height:250px;
+	margin-top:80px;
+	border: 15px solid black;
+	border-radius:50px;
+}
+.heading
+{
+	color: black;
+	font-family: Arial;
+	text-align:center;
+}
+.input
+{
+	margin-left: 90px;
+	border: 2px solid ;
+	border-radius:5px;
+	width:200px;
+	height:20px;
+	
+}
+.submit
+{
+	background-color: green;
+	color: white;
+	margin-left: 90px;
+	border: 2px solid;
+	border-radius:5px;
+	width:100px;
+	height:30px;
+}
+.box
+{
+	margin-left:90px;
+	margin-top:10px;
+}
+.link
+{
+	margin-left: 90px;
+	margin-top:8px;
+}
